@@ -1,0 +1,35 @@
+# Zaki Enterprises
+> Global AI consultancy and automation solutions provider. Tagline: Intelligence That Moves Business Forward.
+
+## Services
+- [Excel Dashboard Development](https://YOUR-DOMAIN.com/excel-dashboard-development.html): Professional Excel dashboard development: clean data, Pivot Tables, charts and KPI views that make business performance easy to see.
+- [Excel Automation](https://YOUR-DOMAIN.com/excel-automation.html): Excel automation services for recurring reports, data cleaning and repetitive spreadsheet work, built around your existing files.
+- [Excel Data Analysis](https://YOUR-DOMAIN.com/excel-data-analysis.html): Excel data analysis that cleans your data, finds trends and inefficiencies and explains the findings in plain language.
+- [Google Sheets Automation](https://YOUR-DOMAIN.com/google-sheets-automation.html): Google Sheets automation for reporting, data entry and syncing data between sheets and your other business tools.
+- [AI Chatbot Development](https://YOUR-DOMAIN.com/ai-chatbot-development.html): Custom AI chatbot development for websites, business communication and customer support, built on your own content.
+- [Predictive Analytics & Forecasting](https://YOUR-DOMAIN.com/predictive-analytics-forecasting.html): Predictive analytics and business forecasting: use historical data to estimate demand, sales and costs and plan with more confidence.
+- [Computer Vision & Image Recognition](https://YOUR-DOMAIN.com/computer-vision-solutions.html): Computer vision and image recognition solutions that detect, classify and count objects in images for inspection, sorting and monitoring.
+- [NLP & Sentiment Analysis](https://YOUR-DOMAIN.com/nlp-sentiment-analysis.html): Natural language processing and sentiment analysis: understand reviews, messages and survey responses at scale to find topics, mood and urgency.
+- [AI CRM & Support Integration](https://YOUR-DOMAIN.com/ai-crm-support-integration.html): AI CRM and customer support integration: connect AI to your CRM and help desk to classify requests, suggest replies and keep records updated.
+- [Custom Machine Learning Development](https://YOUR-DOMAIN.com/custom-machine-learning.html): Custom machine learning model development and deployment: models trained on your data for prediction, classification and decision support.
+- [AI Strategy & Implementation Consulting](https://YOUR-DOMAIN.com/ai-strategy-consulting.html): AI strategy consulting and implementation: identify the right AI opportunities, prioritize them and turn them into a practical plan.
+- [Generative AI & LLM Solutions](https://YOUR-DOMAIN.com/generative-ai-solutions.html): Generative AI and LLM solutions for business: assistants and tools that answer from your own documents, draft content and summarize information.
+- [AI Receptionist](https://YOUR-DOMAIN.com/ai-receptionist.html): AI receptionist for businesses: answer common enquiries, capture visitor details and handle appointment requests, with a clear handoff to your team.
+- [n8n Workflow Automation](https://YOUR-DOMAIN.com/n8n-workflow-automation.html): n8n workflow development and automation: connect apps, move data and automate repetitive business processes with reliable, tested workflows.
+- [AI Business Automation](https://YOUR-DOMAIN.com/ai-business-automation.html): Automate repetitive tasks, reporting and admin workflows with practical AI business automation designed around your processes.
+- [API Integration & Automation](https://YOUR-DOMAIN.com/api-integration-automation.html): API integration services that connect business apps, spreadsheets and AI tools into reliable automated workflows.
+- [Document Processing Automation](https://YOUR-DOMAIN.com/document-processing-automation.html): Automate document processing: extract information from invoices, forms and files, validate it and send it where it belongs.
+- [AI Agent Development](https://YOUR-DOMAIN.com/ai-agent-development.html): AI agent development for business: assistants that answer questions and perform suitable tasks within clear limits.
+- [Social Media Automation](https://YOUR-DOMAIN.com/social-media-automation.html): Social media automation for content planning, scheduling workflows and reporting, with human review before anything is published.
+- [PowerPoint Presentation Design](https://YOUR-DOMAIN.com/powerpoint-presentation-design.html): Professional PowerPoint presentation design for business, pitches and reports, with clear structure and consistent branding.
+- [Presentation Automation](https://YOUR-DOMAIN.com/presentation-automation.html): Presentation automation: turn Excel data into consistent, data-driven PowerPoint reports with a repeatable workflow.
+
+## Pages
+- [Home](https://YOUR-DOMAIN.com/)
+- [Solutions](https://YOUR-DOMAIN.com/solutions.html)
+- [Industries](https://YOUR-DOMAIN.com/industries.html)
+- [About and FAQ](https://YOUR-DOMAIN.com/about.html)
+- [Contact](https://YOUR-DOMAIN.com/contact.html)
+
+## Notes
+No client names, testimonials or results are published. Scope, timelines and costs depend on each project.
