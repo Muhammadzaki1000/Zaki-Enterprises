@@ -16,4 +16,150 @@
 <div><h3>Services</h3><ul id="fl"><li><a href="excel-dashboard-development.html">Excel Dashboard Development</a></li><li><a href="excel-automation.html">Excel Automation</a></li><li><a href="excel-data-analysis.html">Excel Data Analysis</a></li><li><a href="google-sheets-automation.html">Google Sheets Automation</a></li><li><a href="ai-chatbot-development.html">AI Chatbot Development</a></li><li><a href="predictive-analytics-forecasting.html">Predictive Analytics &amp; Forecasting</a></li><li><a href="computer-vision-solutions.html">Computer Vision &amp; Image Recognition</a></li><li><a href="nlp-sentiment-analysis.html">NLP &amp; Sentiment Analysis</a></li><li><a href="ai-crm-support-integration.html">AI CRM &amp; Support Integration</a></li><li><a href="custom-machine-learning.html">Custom Machine Learning Development</a></li><li><a href="ai-strategy-consulting.html">AI Strategy &amp; Implementation Consulting</a></li><li><a href="generative-ai-solutions.html">Generative AI &amp; LLM Solutions</a></li><li><a href="ai-receptionist.html">AI Receptionist</a></li><li><a href="n8n-workflow-automation.html">n8n Workflow Automation</a></li><li><a href="ai-business-automation.html">AI Business Automation</a></li><li><a href="api-integration-automation.html">API Integration &amp; Automation</a></li><li><a href="document-processing-automation.html">Document Processing Automation</a></li><li><a href="ai-agent-development.html">AI Agent Development</a></li><li><a href="social-media-automation.html">Social Media Automation</a></li><li><a href="powerpoint-presentation-design.html">PowerPoint Presentation Design</a></li><li><a href="presentation-automation.html">Presentation Automation</a></li></ul></div>
 <div><h3>Explore</h3><ul><li><a href="solutions.html">Solutions</a></li><li><a href="industries.html">Industries</a></li><li><a href="about.html">About</a></li><li><a href="about.html#faq">FAQ</a></li></ul></div>
 <div><h3>Contact</h3><ul><li>[email placeholder]</li><li>[phone placeholder]</li><li><a href="contact.html">Privacy Policy (placeholder)</a></li><li><a href="contact.html">Terms and Conditions (placeholder)</a></li></ul></div>
-</div><p style="margin-top:32px">© <span id="yr">2026</span> Zaki Enterprises. All rights reserved.</p></div></footer><div id="cb"><div id="cp" role="dialog" aria-label="Chatbot preview"><header>ZE Assistant<small>Design preview · answers from FAQ rules</small></header><div id="cl" aria-live="polite"><div class="m a">Hello! Ask me about our services, integrations, timelines or how to get started.</div></div><div class="qs" id="qs"><button>What services does Zaki Enterprises provide?</button><button>Can you work with businesses in different countries?</button><button>Can AI solutions be customized?</button><button>Can AI integrate with existing business applications?</button></div><div class="ci"><input id="ci" aria-label="Type your question" placeholder="Type a question…"><button class="btn p" id="cs" style="padding:8px 16px">Send</button></div></div><button id="cbt" aria-label="Open chat preview">💬</button></div><script src="site.js"></script></body></html>
+</div><p style="margin-top:32px">© <span id="yr">2026</span> Zaki Enterprises. All rights reserved.</p></div></footer><div id="cb"><div id="cp" role="dialog" aria-label="Chatbot preview"><header>ZE Assistant<small>Design preview · answers from FAQ rules</small></header><div id="cl" aria-live="polite"><div class="m a">Hello! Ask me about our services, integrations, timelines or how to get started.</div></div><div class="qs" id="qs"><button>What services does Zaki Enterprises provide?</button><button>Can you work with businesses in different countries?</button><button>Can AI solutions be customized?</button><button>Can AI integrate with existing business applications?</button></div><div class="ci"><input id="ci" aria-label="Type your question" placeholder="Type a question…"><button class="btn p" id="cs" style="padding:8px 16px">Send</button></div></div><button id="cbt" aria-label="Open chat preview">💬</button></div><script src="site.js"></script></<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zaki Enterprises - AI Assistant</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f7f6;
+      margin: 0;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    #chat-container {
+      width: 100%;
+      max-width: 400px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    #chat-box {
+      height: 350px;
+      padding: 15px;
+      overflow-y: auto;
+      background: #fafafa;
+      border-bottom: 1px solid #eee;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .message {
+      padding: 10px 12px;
+      border-radius: 8px;
+      max-width: 80%;
+      font-size: 14px;
+      line-height: 1.4;
+    }
+    .user-msg {
+      background: #0070f3;
+      color: white;
+      align-self: flex-end;
+    }
+    .ai-msg {
+      background: #e5e5ea;
+      color: #333;
+      align-self: flex-start;
+    }
+    #chat-input-area {
+      display: flex;
+      padding: 10px;
+      background: white;
+      gap: 8px;
+    }
+    #user-input {
+      flex: 1;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      outline: none;
+    }
+    #send-btn {
+      padding: 10px 16px;
+      background-color: #0070f3;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    #send-btn:hover {
+      background-color: #0051b3;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- AI Chat Widget UI -->
+  <div id="chat-container">
+    <div id="chat-box">
+      <div class="message ai-msg"><strong>AI Assistant:</strong> Hello! How can I help you today?</div>
+    </div>
+    
+    <div id="chat-input-area">
+      <input type="text" id="user-input" placeholder="Type a message...">
+      <button id="send-btn">Send</button>
+    </div>
+  </div>
+
+  <!-- JavaScript Code for Cloudflare Worker & Gemini API -->
+  <script>
+    const sendBtn = document.getElementById('send-btn');
+    const userInput = document.getElementById('user-input');
+    const chatBox = document.getElementById('chat-box');
+
+    function appendMessage(sender, text, isUser) {
+      const msgDiv = document.createElement('div');
+      msgDiv.classList.add('message');
+      msgDiv.classList.add(isUser ? 'user-msg' : 'ai-msg');
+      msgDiv.innerHTML = `<strong>${sender}:</strong> ${text}`;
+      chatBox.appendChild(msgDiv);
+      chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    async function handleSendMessage() {
+      const message = userInput.value.trim();
+      if (!message) return;
+
+      // Show user message
+      appendMessage('You', message, true);
+      userInput.value = '';
+
+      // Show temporary loading indicator
+      appendMessage('AI Assistant', '<em>Thinking...</em>', false);
+
+      try {
+        const response = await fetch('https://zaki-enterprises.zaki-shahid12.workers.dev', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ message: message })
+        });
+
+        const data = await response.json();
+        
+        // Remove loading indicator & show actual reply
+        chatBox.lastElementChild.remove();
+        appendMessage('AI Assistant', data.reply || 'No response from server.', false);
+      } catch (error) {
+        chatBox.lastElementChild.remove();
+        appendMessage('AI Assistant', 'Error connecting to AI service.', false);
+        console.error(error);
+      }
+    }
+
+    sendBtn.addEventListener('click', handleSendMessage);
+    userInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') handleSendMessage();
+    });
+  </script>
+
+</body>
+</html>body></html>
